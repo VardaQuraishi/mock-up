@@ -1,1 +1,1 @@
-console.log("mospe")
+console.log("wyted")
