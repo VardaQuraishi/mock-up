@@ -1,1 +1,1 @@
-console.log("uhoja")
+console.log("kogod")
