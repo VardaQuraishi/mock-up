@@ -1,1 +1,1 @@
-console.log("kogod")
+console.log("glvud")
